@@ -13,7 +13,7 @@ Clone this repository using the HTTPS method or downloading ZIP in the same sect
 4. npm install inquirer@8.2.4
 5. run node index.js to begin 
 
-Please refer to this video for detailed instructions: 
+Please refer to this video for detailed instructions: https://www.youtube.com/watch?v=I9JY3bdwD1g
 
 ## License 
 The application is covered under the following license:
