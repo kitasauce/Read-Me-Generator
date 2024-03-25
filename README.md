@@ -1,23 +1,32 @@
 # Read-Me-Generator
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+## Description 
+This application uses node.js to generate a README.md file. Using node to run the index.js will cause a series of questions to prompt up in the terminal- questions are created using the inquirer npm.
 
-title - input
-description - input
-license - options
-username - add to github link 
-email/questions - input 
+## Installation 
+Clone this repository using the HTTPS method or downloading ZIP in the same section.
+
+## Usage
+1. Download code from github
+2. Open the teminal in the main folder in an application like VS code 
+3. npm init -y to initialize the project 
+4. npm install inquirer@8.2.4
+5. run node index.js to begin 
+
+Please refer to this video for detailed instructions: 
+
+## License 
+The application is covered under the following license:
+
+MIT
+
+## Contributing 
+No contributors on this project. 
+
+## Tests
+No tests on this project. 
+
+## Questions 
+For any questions please contact me here:
+
+https://github.com/kitasauce
